@@ -1,0 +1,145 @@
+@media(max-width:767px) {
+#top-Heading{
+    background-color: #ecfcff;
+    background-image: url(./image/bg-hero-mobile.svg);
+    background-size: cover;
+    opacity: 1;
+    margin-bottom: 50px;
+  }
+
+  /* top container and header start */
+  .logo1 {
+    max-width: 110px;
+    margin-left: 10px;
+    margin-top: 30px;
+  }
+
+  .btn1 {
+    padding: 5px 20px;
+    margin-right: 10px;
+    margin-top: 30px;
+    font-size: 10px;
+  }
+
+  .mock-row {
+    text-align: center;
+  }
+
+  .mock-h {
+    font-size: 22px;
+    line-height: 1.5;
+    text-align: center;
+    margin: 30px 17px 30px 17px;
+  }
+
+  .mock-text {
+    text-align: center;
+    font-size: 1rem;
+    margin: 0;
+  }
+
+  .btn2 {
+    margin-top: 20px;
+    padding: 8px 16px;
+  }
+
+  .mock-image {
+    max-width: 100%;
+    margin-top: 50px;
+    padding-bottom: 40px;
+    height: 250px;
+  }
+
+  /* top container and header ends */
+  /* middle container starts */
+  #grow-part{
+    text-align: center;
+    font-size: 15px;
+    line-height: 1.3;
+  }
+
+  .container-grow {
+    padding: 0 6px;
+  }
+
+  .grow-heading {
+    font-size: 1.6rem;
+    line-height: 1.2;
+    margin-bottom: 8%;
+  }
+
+  .grow-image {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+
+  .container-grow {
+    margin: 20px 30px;
+  }
+
+  .grow-image1 {
+    padding: 0;
+    /* max-width: 100%; */
+  }
+
+.conversation-image {
+    padding: 0;
+    /* max-width: 100%; */
+  }
+
+  .grow-content {
+    margin-top: 50px;
+  }
+
+  /* mid container ends */
+  /* bottom container starts */
+  #footer {
+    font-size: 1rem;
+    margin-top: 150px;
+  }
+
+  .ready-head {
+    font-size: 17px;
+  }
+
+  #footer .container-box {
+    padding: 20px 0;
+    margin-left: 20px;
+    margin-right: 20px;
+    bottom: 90px;
+  }
+
+  .btn3 {
+    padding: 10px;
+    margin-top: 1px;
+    font-size: 15px;
+  }
+
+  .address {
+    margin: 40px 10px 0;
+  }
+
+  .link {
+    padding: 0;
+    margin: 0;
+  }
+
+  .address-icon {
+    margin-bottom: 30px;
+    padding-left: 0;
+  }
+
+  #footer .logo2 {
+    max-width: 50%;
+    margin-left: 20px;
+  }
+
+  .social-media {
+    margin-top: 30px;
+  }
+
+  .copyrights {
+    font-size: 15px;
+    margin-top: 30px;
+  }
+}
